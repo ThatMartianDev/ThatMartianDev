@@ -1,10 +1,7 @@
 # Ya Hala :wave: :nerd_face:
 
-My name is __Ahmed__, aka __MARSMAN/ThatMartianDev__.
-
-I'm a freelance web developer and designer based in good ol'Cairo :egypt:
-
-I'm Looking to Collaborate with like-minded teams to create bold and impactful website experiences.
+I'm __Ahmed__, aka __MARSMAN/ThatMartianDev__.
+A UX Designer & Web Develoepr
 
 ### Ways to reach out to me:
 
@@ -16,4 +13,4 @@ I'm Looking to Collaborate with like-minded teams to create bold and impactful w
 </a>
 
 #### Visit My website
-<a href="https://marsman.pythonanywhere.com">Let's Go! :rocket:</a>
+<a href="https://thatmartiandev.github.io">Let's Go! :rocket:</a>
